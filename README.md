@@ -1,3 +1,9 @@
+This is my opinionated starter for [Next.js](https://nextjs.org/)-based websites and web apps going into 2024.
+
+_This repo contains the most common scaffolding and structural changes I make in each new project. The purpose is to prevent duplication of initial repo setup, saving hours or days per project and allowing rapid prototyping._
+
+## Original README
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
